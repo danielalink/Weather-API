@@ -173,7 +173,7 @@ plt.savefig("Results/Humidity")
 ```
 
 
-![png](Results/Humidity)
+![png](Results/Humidity.png)
 
 
 
@@ -187,7 +187,7 @@ plt.savefig("Results/Cloudiness")
 ```
 
 
-![png](Results/Cloudiness)
+![png](Results/Cloudiness.png)
 
 
 
@@ -201,5 +201,5 @@ plt.savefig("Results/Wind_Speed")
 ```
 
 
-![png](Results/Wind_Speed)
+![png](Results/Wind_Speed.png)
 
