@@ -1,4 +1,4 @@
-# Unit 6 | Assignment - What's the Weather Like?
+# Unit 6 | [What's the Weather Like?](../../tree/master/06-Python-APIs)
 
 ## Background
 
